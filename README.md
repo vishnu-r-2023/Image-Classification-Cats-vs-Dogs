@@ -1,4 +1,4 @@
-# 🐶🐱 Cats vs Dogs Image Classification
+# 🐶🐱 Image Classification Cats vs Dogs 
 
 ## 📌 Project Overview
 
@@ -28,9 +28,8 @@ It uses a Convolutional Neural Network (CNN) built with TensorFlow and Keras.
 
 ## 📂 Dataset Structure
 
-dataset/
-├── cats/
-├── dogs/
+dataset/cats
+dataset/dogs
 
 * Each folder contains images of respective classes
 * Dataset should be balanced for better accuracy
